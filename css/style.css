@@ -1,6 +1,5 @@
 * {
   margin: 0;
-  padding: 0;
   box-sizing: border-box;
 }
 .header {
@@ -46,4 +45,22 @@
   background-color: white;
   color: black;
   padding: 3px;
+}
+.services {
+  width: 872px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: right;
+}
+.h1 {
+  margin:100px;
+  margin-right:505px;
+}
+.ul2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  color: blue;
+  
 }
