@@ -47,7 +47,6 @@
   padding: 3px;
 }
 .services {
-  width: 872px;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -62,5 +61,29 @@
   flex-direction: row;
   justify-content: right;
   color: blue;
-  
+}
+
+.Fixed1 {
+  background-color: #F9F9F9;
+  width: 70px;
+  height: 70px;
+}
+.Fixed2 {
+  background-color: #0A22F4;
+  width: 70px;
+  height: 70px;
+}
+.Fixed3 {
+  background-color: #F9F9F9;
+  width: 70px;
+  height: 70px;
+}
+section {
+  font-size: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-right: 150px;
+  margin-left: 150px;
 }
